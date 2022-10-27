@@ -1,7 +1,7 @@
 Hi 👋 There I am Hicham
 =======================
 
-Full Stack Developer
+Senior Full Stack Developer
 --------------------
 
 I am passionate about creating good quality applications and websites that are modern, ergonomic, responsive, and adaptable to any device. I like to share my skills and my knowledge with people who have the same passion. Motivated, Dynamic, Sociable, Persevering and Autonomous.
