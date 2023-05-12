@@ -8,7 +8,7 @@ I am passionate about creating good quality applications and websites that are m
 
 * 🌍  I'm based in Casablanca
 * ✉️  You can contact me at [hessaydi@gmail.com](mailto:hessaydi@gmail.com)
-* 🚀  I'm currently working on [SII Services Morocco - SII GROUP](http://sii-group.com/fr-MA)
+* 🚀  I'm currently working at [SII Services Morocco - SII GROUP](http://sii-group.com/fr-MA)
 * 🧠  I'm learning DevOps
 * 🤝  I'm open to collaborating on Stackoverflow, and open-source projects
 
